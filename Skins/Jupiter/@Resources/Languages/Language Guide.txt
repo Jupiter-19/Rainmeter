@@ -1,0 +1,387 @@
+
+  ========== Translation guide for other languages ========== use this list to create a new language ==========
+
+						>>>> PLEASE READ <<<<
+
+		>>>> Text between ( ) is only explicative, doesn't need to be translated <<<<
+
+      >>>> The text lenght must remain almost the same, if needed, substitute it with another synonym <<<<
+
+     >>>> Copy the translated text and overwrite an existing Language, remember to save with a new name <<<<
+	_________________________________________________________________________________________________
+
+
+						(Translation)
+
+(DATE) ------------------------------------------
+
+January - February - March - April - May - June - July - August - September - October - November - December
+
+Sunday - Monday - Tuesday - Wednesday - Thursday - Friday - Saturday
+
+Year
+
+
+(CALENDAR) --------------------------------------
+
+Calendar
+WEEK
+of
+DAYS
+DAY
+REMAINING
+WINTER - SPRING - SUMMER - AUTUMN
+Close Calendar
+Open Calendar
+Start month with
+Sunday or Monday
+Sunday
+Monday
+
+(Days, abbreviated)
+
+(Day1) Mo
+(Day2) Tu
+(Day3) We
+(Day4) Th
+(Day5) Fr
+(Day6) Sa
+(Day7) Su
+
+
+(AV WEATHER) ------------------------------------
+
+WEATHER
+Close Weather
+Open Weather
+
+Day
+Humidity
+Index UV
+Night
+Today
+Tonight
+Tomorrow
+Updated
+Wind
+Wind Gust
+Wind Chill
+
+Satellite view
+Local identification
+Details current location
+
+Sunrise:
+Sunset :
+
+Show details
+Hide details
+Open Satellite view
+Close Satellite view
+Latitude
+Longitude
+Pressure
+Tendency
+Visibility
+Feels like
+(West, abbreviated) W
+
+(Detailed Weather)
+
+Low - Moderate - High - Very High - Extreme - steady - rising - falling - AM Local Time - PM Local Time
+
+(Conditions Day)
+
+T-Storms - T-Storm - Scattered T-Storms - Scattered Showers - to - Clearing - Thunderstorms - Heavy T-Storm - Windy Rain - Rain Snow - Sleet - Snow/Rain Icy Mix - Freezing Drizzle - Drizzle - Freezing Rain - T-Showers - Showers - Light Rain - Heavy Rain - Snow Flurries - Grains - Light Snow - Snowflakes - Heavy Snow - Hail - Dust - Foggy - Haze - Smoke - Fog - Windy - Frigid - Partly Cloudy - Clouds - Mostly Cloudy - Cloudy - Clear - Sunny - Fair - Mostly Clear - Mostly Sunny - Hot - Isolated Thunder - Scattered Rain - Scattered Snow - Windy/Snowy - Snowy - Ice - and - Shower - Mostly (leave blank) - Scattered - Partial - Rain - Snow - Wind - Early (leave blank) - Early (leave blank) - Late (leave blank) - Late (leave blank) - PM (leave blank) - AM (leave blank) - Sun - Cloud - Light - Snow Shower - Widespread - Few - Isolated - Mist - Thunder - with - in the Vicinity - Clearing - Greine - Shallow - Heavy
+
+(Conditions Night)
+
+T-Storms - T-Storm - Scattered T-Storms - Scattered Showers - to - Clearing - Thunderstorms - Heavy T-Storm - Windy Rain - Rain Snow - Sleet - Snow/Rain Icy Mix - Freezing Drizzle - Drizzle - Freezing Rain - T-Showers - Showers - Light Rain - Heavy Rain - Snow Flurries - Grains - Light Snow - Snowflakes - Heavy Snow - Hail - Dust - Foggy - Haze - Smoke - Fog - Windy - Frigid - Partly Cloudy - Clouds - Mostly Cloudy - Cloudy - Clear - Sunny (translate as "Clear") - Fair - Mostly Clear - Mostly Sunny (translate as "Clear") - Hot - Isolated Thunder - Scattered Rain - Scattered Snow - Windy/Snowy - Snowy - Ice - and - Shower - Mostly (leave blank) - Scattered - Partial - Rain - Snow - Wind - Early (leave blank) - Early (leave blank) - Late (leave blank) - Late (leave blank) - PM (leave blank) - AM (leave blank) - Sun (translate as "Clear") - Cloud - Light - Snow Shower - Widespread - Few - Isolated - Mist - Thunder - with - in the Vicinity - Clearing - Greine - Shallow - Heavy
+
+(Alert)
+
+From - Until - "jpg":"png" (don't change) - Sun - Mon - Tue - Wed - Thu - Fri - Sat - Jan - Feb - Mar - Apr - May - Jun - Jul - Aug - Sep - Oct - Nov - Dec
+
+(Updated, abbreviated) Upd.
+at
+Today - No warnings
+Tomorrow - No warnings
+Close WeatherAlert
+Open WeatherAlert
+
+
+(MUSIC) -----------------------------------------
+
+Media
+Spectrum analyzer
+Full - peak 1
+Full - peak 2
+Full - peak 3
+Bars only
+Maximum level only
+Update Spectrum position
+No Artist
+No Album
+No Title
+No Date
+
+
+(SHUTDOWN) --------------------------------------
+
+ShutDown
+Restart
+LogOff
+
+
+(NOTES) -----------------------------------------
+
+Notes
+Close
+
+Memo
+To do
+Schedule
+List
+
+
+(FEEDS) -----------------------------------------
+
+Feeds
+Update Feeds
+Searching data
+Last Update
+Posted by
+
+Sun - Mon - Tue - Wed - Thu - Fri - Sat - Jan - Feb - Mar - Apr - May - Jun - Jul - Aug - Sep - Oct - Nov - Dec - Today - Yesterday - PDT (leave blank) - PST (leave blank) - GMT (leave blank) - T (leave blank) - deltawp, p... (leave blank) - Statistics (leave blank) - Posted by (leave blank) - ago - less than a minute - minutes - minute
+
+
+(UPTIME) ----------------------------------------
+
+Time Used
+(Day abbreviated) d
+(Hour abbreviated) h
+(Minute abbreviated) m
+
+
+(TIME) ------------------------------------------
+ 
+Enable close on launch
+Disable close on launch
+Total
+Free
+(Leave #CRLF# as is) Right click#CRLF#to eject
+
+
+(LAUNCHERS 2) -----------------------------------
+
+Deactivate Launchers
+Activate Launchers
+
+
+(SYS LAUNCHERS) ---------------------------------
+
+System
+Devices
+Networks
+Performance
+Computer
+Memories
+
+
+(SYS STATISTICS) --------------------------------
+
+Telemetry
+
+
+(DISK STATISTICS) -------------------------------
+
+Surveillance
+
+Write
+Read
+
+
+(WIFI STATISTICS) -------------------------------
+
+Connections
+SYSTEM PERFORMANCE MONITORS
+Hide Title Label
+Show Title Label
+
+Signal
+Upload
+Download
+
+
+(AV RECYCLER) -----------------------------------
+
+Empty Bin
+Recycler
+(items, abbreviated if too long) items
+
+
+(SYS MONITOR) -----------------------------------
+
+Monitor
+Reduce
+Expand
+
+
+(RES MONITOR) -----------------------------------
+
+System Monitor
+
+RAM Used
+Used
+SWAP Used
+Battery
+Status
+AC POWER - CHARGING - EMPTY - LOW - CHARGED
+
+
+(CPU) -------------------------------------------
+
+Operating System
+Open Task Manager
+
+
+(NETWORK - WIFI) --------------------------------
+
+WiFi
+
+(Upload, abbreviated) Upl.
+(Download, abbreviated) Dnl.
+Band
+Protection
+Time used
+
+
+(OPTIONS) ---------------------------------------
+
+CONFIGURATION
+PRESS ENTER TO SAVE THE CHANGES
+For a full list of supported music players and their respective player codes, check the NowPlaying plugin section of the Rainmeter manual
+Most used:  Name  ->  Code (leave all the rest as is)
+(Leave #CRLF# as is) To create a new translation, go to @Resources folder, edit an#CRLF#existing one, save as... adding the new language abbreviation
+
+Measures in bits (leave all the rest as is)
+Enabled
+Disabled
+Enable Counter
+this option to enable and show total time elapsed
+
+Informations displayed in the Time skin
+Must contain the colon e.g. "C:"
+Primary Drive Letter
+Secondary Drive Letter
+Third Drive Letter
+Fourth Drive Letter
+Fifth Drive Letter
+Minimum 1, Maximum 5
+Active Disks or partitions
+First Drive Letter
+Second Drive Letter
+Third Drive Letter
+Must contain the colon e.g. "H:", leave blank if not used
+ATTENTION: by inserting a disc, Rainmeter may freeze for a few seconds
+DISKS ACTIVITY: Max Read/Write
+Primary Disk
+Other Disk/s
+HDD standard
+High-end HDD
+SSD standard
+High-end SSD
+No Disk
+
+LANGUAGE
+used
+
+Website Name
+Web Address
+To open your six preferred websites directly from the Time skin.
+
+Alternation time        seconds (leave the space as is)
+Enable/disable pages alternation
+(Leave #CRLF# as is) How long you see a page#CRLF#before to move to the next
+
+(Leave #CRLF# as is) Maximum 27 letters if used without OTHER INFO#CRLF#Maximum 12 letters each one if both used
+Maximum 12 letters
+
+Disable Launcher
+Enable Launcher
+(Leave #CRLF# as is) Launcher Disabled#CRLF#Use the command to the right
+
+Choose path between Application and Folder
+Application path
+Folder path
+
+Name of application
+Folder Name
+Application path
+Folder path
+Choose an icon
+
+Program Instances *              Minimum 1, Maximum 4 (leave the space as is)
+* MAXIMUM limit of concurrently active program instances, if allowed by the program.
+
+FOLDER 1 - GROUP
+Name
+FOLDER
+Folder Name
+Folder Path
+FOLDER 7 - GROUP
+
+Title Options
+S.H.I.E.L.D. OS (leave as is)
+Date complete
+OTHER INFO
+Display Icon
+Image
+Text
+Choose image
+Type text
+Add your Name or other displayed at the bottom of the S.H.I.E.L.D. Tag skin, change image on the right
+
+°C Celsius
+°F Farhenheit
+Location Code
+Update Rate
+seconds
+
+IMPORTANT! Set this section AFTER you have configured ALL THE REST, if you are connected to internet.
+*WARNING! A request is send to the weather server with this frequency! Use 1800 (30 minutes, minimum), 2700 (45 minutes), 3600 (1 hour) or more. MANTAIN the original setting, you can be BLOCKED or BANNED from the site if you send too many update requests!
+To find the Code of your location: Go to http://www.weather.com and search for your city. Once in the webpage, go to the address bar and copy the 8 digit code (for example - USDC0001), and paste it on the Location Code. You can use the website, http://weather.yahoo.com or others, for the weather data, but very carefully, because the information format may be not utilizable
+
+You need Speedfan to read hardware informations. Go to http://www.almico.com/speedfan.php. Install the program, click "Exotics" label, if nothing appears, click "Show the magic" button and find what to show.#CRLF#First, top left, is "Fan 0", the next to the right is "Fan 1" and so on.
+
+UNITS °C or °F
+Must be the same as in SpeedFan settings.
+SENSOR NUMBER
+Disable
+
+OVERHEATHING TEMPERATURE ALERT SETTINGS
+FAN LOW RPM ALERT SETTINGS
+Fan Low rpm
+
+When a sensor reaches the alert setting, the corresponding meter is highlighted with a red color.
+SOUND ALARMS
+Temperature Alarm
+Fans Alarm
+* Select the .wav sound to be used for the alarms, leave empty if not used.
+To verify the number of CPU Cores, click on
+In the PERFORMANCE section, count the windows number, next to CPU UTILIZATION, every window is a Core.
+CPU Graphics
+CPU and Cores
+Cores only
+
+;UTILITY BUTTONS ================================
+
+Guide
+Search
+Search files and programs
+Search in Internet
+Search options
+Search in Computer
+Search with Google
+Search with Yahoo
+Search with Bing
